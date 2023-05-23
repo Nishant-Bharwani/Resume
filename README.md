@@ -13,7 +13,7 @@ Fascinated with real life applications of products.</h3>
 
 - ### 📫&nbsp; Reach me out at <a href="mailto:nbtaylor1031@gmail.com"><b>nbtaylor1031@gmail.com</b></a>
 
-- ### 👨‍💼&nbsp; I'm open for oppurtunities, get my Resume [here](https://raw.githubusercontent.com/Nishant-Bharwani/Resume/master/Nishant_Bharwani_Resume.pdf){:target="_blank" rel="noopener noreferrer"}
+- ### 👨‍💼&nbsp; I'm open for oppurtunities, get my Resume [here](https://raw.githubusercontent.com/Nishant-Bharwani/Resume/master/Nishant_Bharwani_Resume.pdf)
 
 <h2 align="center">Connect with me 🤝 <br> </h2>
 <p align="center">
